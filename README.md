@@ -63,19 +63,6 @@ Interpretação de dados
 
 Boas práticas em projetos de Data Science
 
-🚀 Como Executar
-
-Clone o repositório:
-
-git clone https://github.com/guilhermerferreira/mini_projeto_1.git
-
-Acesse a pasta:
-
-cd mini-projeto-1-dsa
-
-Execute o Jupyter Notebook:
-
-jupyter notebook
 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram consolidados conhecimentos fundamentais em:
