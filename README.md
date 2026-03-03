@@ -67,7 +67,7 @@ Boas práticas em projetos de Data Science
 
 Clone o repositório:
 
-git clone https://github.com/guilhermerferreira/mini-projeto-1-dsa.git
+git clone https://github.com/guilhermerferreira/mini_projeto_1-dsa.git
 
 Acesse a pasta:
 
